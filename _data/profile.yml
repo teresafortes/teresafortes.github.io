@@ -24,10 +24,10 @@ short_bio: >-
     Hi! I'm a Software Engineering Ph.D. student in the CMU-Portugal Dual PhD programme,
     conducting research at the <a href="https://s3d.cmu.edu/" target="_blank">Software and Societal Systems Department</a>
     in the <a href="https://www.cs.cmu.edu/" target="_blank">School of Computer Science</a> at
-    <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, and at
-    <a href="https://www.up.pt/feup/pt/" target="_blank">FEUP</a>, University of Porto, where I'm a member of the
+    <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, and at the
+    <a href="https://www.up.pt/feup/pt/" target="_blank">Faculty of Engineering of the University of Porto</a>, where I'm a member of the
     <a href="https://tqrg.github.io" target="_blank">TQRG (The Quasar Research Group)</a>.
-    I'm based in Braga, Portugal, and my work sits at the intersection of formal
+    My work sits at the intersection of formal
     reasoning and large language models, advised by
     <a href="https://ruimaranhao.com" target="_blank">Dr. Rui Abreu</a> and
     <a href="https://www.cs.cmu.edu/~aldrich/" target="_blank">Dr. Jonathan Aldrich</a>.
@@ -66,9 +66,6 @@ experience:
 - name: "Ambiguity Reduction in Natural Language Requirements through Autoformalization"
   dept: RExAI Workshop Paper, NFM &mdash; in progress, accepted
   date: Mar. 2026 - present
-- name: "LLMs for Formal Methods: A Literature Review"
-  dept: Systematic Literature Review &mdash; in progress
-  date: Aug. 2025 - present
 - name: "Alloy Meets Haskell: A Round-Trip Life-Cycle for High Quality Software Design"
   dept: Master's Thesis
   date: Jan. 2024 - Dec. 2025
@@ -80,9 +77,3 @@ awards:
   date: 2024
 - name: Staff Member, 26th Portuguese National Congress of Internal Medicine
   date: 2020
-- name: "Class Representative, Bachelor's in Computer Science, University of Minho"
-  date: 2019-2022
-- name: Volleyball &mdash; S.C. Braga, Portuguese National Championship; Silver Medal at AVB Cup (2018)
-  date: 2014-2019
-- name: Federated Horse Riding &mdash; Regional Competitions
-  date: 2012-2015
