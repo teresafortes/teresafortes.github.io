@@ -3,7 +3,6 @@ title:          "Ambiguity Reduction in Natural Language Requirements through Au
 date:           2026-01-01 00:01:00 +0000
 selected:       true
 pub:            "RExAI Workshop, co-located with NASA Formal Methods (NFM) 2026 &middot; USC, Los Angeles, California"
-pub_date:       "2026"
 authors:
   - Eunsuk Kang
   - Sam Procter

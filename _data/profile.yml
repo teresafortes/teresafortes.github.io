@@ -21,7 +21,7 @@ linkedin: teresa-fortes
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I'm a Software Engineering Ph.D. student in the CMU-Portugal Dual PhD programme,
+    Hi! I'm a Software Engineering Ph.D. student in the CMU-Portugal Dual PhD programme,
     conducting research at the <a href="https://s3d.cmu.edu/" target="_blank">Software and Societal Systems Department</a>
     in the <a href="https://www.cs.cmu.edu/" target="_blank">School of Computer Science</a> at
     <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, and at
@@ -31,6 +31,9 @@ short_bio: >-
     reasoning and large language models, advised by
     <a href="https://ruimaranhao.com" target="_blank">Dr. Rui Abreu</a> and
     <a href="https://www.cs.cmu.edu/~aldrich/" target="_blank">Dr. Jonathan Aldrich</a>.
+  </p>
+  <p>
+    I'm always open to collaborations. Feel free to reach out to me at tfortes(at)andrew(dot)cmu(dot)edu.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
