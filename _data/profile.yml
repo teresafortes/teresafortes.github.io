@@ -22,9 +22,15 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I'm a Software Engineering Ph.D. student in the CMU-Portugal Dual PhD programme,
-    conducting research at both Carnegie Mellon University and the University of Porto.
+    conducting research at the <a href="https://s3d.cmu.edu/" target="_blank">Software and Societal Systems Department</a>
+    in the <a href="https://www.cs.cmu.edu/" target="_blank">School of Computer Science</a> at
+    <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, and at
+    <a href="https://www.up.pt/feup/pt/" target="_blank">FEUP</a>, University of Porto, where I'm a member of the
+    <a href="https://tqrg.github.io" target="_blank">TQRG (The Quasar Research Group)</a>.
     I'm based in Braga, Portugal, and my work sits at the intersection of formal
-    reasoning and large language models, advised by Dr. Rui Abreu and Dr. Jonathan Aldrich.
+    reasoning and large language models, advised by
+    <a href="https://ruimaranhao.com" target="_blank">Dr. Rui Abreu</a> and
+    <a href="https://www.cs.cmu.edu/~aldrich/" target="_blank">Dr. Jonathan Aldrich</a>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
