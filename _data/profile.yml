@@ -32,8 +32,9 @@ short_bio: >-
     <a href="https://ruimaranhao.com" target="_blank">Dr. Rui Abreu</a> and
     <a href="https://www.cs.cmu.edu/~aldrich/" target="_blank">Dr. Jonathan Aldrich</a>.
   </p>
-  <p>
-    I'm always open to collaborations. Feel free to reach out to me at tfortes(at)andrew(dot)cmu(dot)edu.
+  <p class="p-2 px-3 rounded" style="background-color: #eef6fc;">
+    I'm always open to collaborations. Feel free to reach out to me at
+    <a href="mailto:%74%66%6F%72%74%65%73@%61%6E%64%72%65%77.%63%6D%75.%65%64%75">tfortes(at)andrew(dot)cmu(dot)edu</a>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
