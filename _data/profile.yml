@@ -3,14 +3,14 @@ secondary_name: ""
 navbar_name: "Teresa Fortes"
 
 positions:
-- name: PhD Student in Software Engineering
-- name: Carnegie Mellon University
+- name: Software Engineering Ph.D. Student
+- name: Carnegie Mellon University & University of Porto
 
 
 email: "tfortes@andrew.cmu.edu"
 # cv_link: link-to-your-cv-file
 gscholar: y3obxuYAAAAJ
-github: teresafortes019
+github: teresafortes
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -21,28 +21,58 @@ linkedin: teresa-fortes
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    TODO: write a short bio about yourself here (interests, research focus, etc).
+    I'm a Software Engineering Ph.D. student in the CMU-Portugal Dual PhD programme,
+    conducting research at both Carnegie Mellon University and the University of Porto.
+    I'm based in Braga, Portugal, and my work sits at the intersection of formal
+    reasoning and large language models, advised by Dr. Rui Abreu and Dr. Jonathan Aldrich.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  TODO: replace /assets/images/photos/portrait.jpg with your own photo (this caption is optional, comment it out to disable).
+# portrait_caption: optional caption, leave commented out to disable
 
 education:
-- name: Carnegie Mellon University
+- name: Carnegie Mellon University and University of Porto
   position: >-
-    Software Engineering <br/>
-    Ph.D. Student
-  date: "TODO: e.g. Aug. 2024 - present"
-# - name: TODO add previous degree(s) here
-#   position: TODO
-#   date: TODO
+    Dual Ph.D. in Software Engineering <br/>
+    Pittsburgh and Porto
+  date: Sep. 2025 - present
+- name: University of Minho
+  position: >-
+    Master's in Software Engineering <br/>
+    Braga, Portugal
+  date: Sep. 2022 - Aug. 2025
+- name: Ludwig-Maximilians-Universität
+  position: >-
+    Erasmus Exchange Programme <br/>
+    Munich, Germany
+  date: Sep. 2023 - Feb. 2024
+- name: University of Minho
+  position: >-
+    Bachelor's in Software Engineering <br/>
+    Braga, Portugal
+  date: Sep. 2019 - Aug. 2022
 
-# experience:
-# - name: TODO add work/research experience here
-#   position: TODO
-#   date: TODO
+experience:
+- name: "Ambiguity Reduction in Natural Language Requirements through Autoformalization"
+  dept: RExAI Workshop Paper, NFM &mdash; in progress, accepted
+  date: Mar. 2026 - present
+- name: "LLMs for Formal Methods: A Literature Review"
+  dept: Systematic Literature Review &mdash; in progress
+  date: Aug. 2025 - present
+- name: "Alloy Meets Haskell: A Round-Trip Life-Cycle for High Quality Software Design"
+  dept: Master's Thesis
+  date: Jan. 2024 - Dec. 2025
 
-# awards:
-# - name: TODO add awards here
-#   date: TODO
+awards:
+- name: Student Volunteer, ICSE 2026 &mdash; Rio de Janeiro, Brazil
+  date: 2026
+- name: IT Support Technician &mdash; European Parliament Elections
+  date: 2024
+- name: Staff Member, 26th Portuguese National Congress of Internal Medicine
+  date: 2020
+- name: "Class Representative, Bachelor's in Computer Science, University of Minho"
+  date: 2019-2022
+- name: Volleyball &mdash; S.C. Braga, Portuguese National Championship; Silver Medal at AVB Cup (2018)
+  date: 2014-2019
+- name: Federated Horse Riding &mdash; Regional Competitions
+  date: 2012-2015
